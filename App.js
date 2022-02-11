@@ -1,5 +1,5 @@
 import React from 'react';
-import {NativeBaseProvider} from 'native-base';
+import {Box, NativeBaseProvider, Text} from 'native-base';
 import MainPage from './src/screens/MainPage';
 
 const App = () => {
